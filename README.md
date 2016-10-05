@@ -18,3 +18,10 @@ Template LaTeX para a SBC - Sociedade Brasileira de Computação (LaTeX template
 #### Instalação via Chocolatey
  - Em um prompt de comando (Administrador) (`cmd.exe`), digite: `choco install miktex texstudio -y` 
  - Pronto! Et voilà!
+
+### Como usar o template:
+ - Clone o repositório, ou baixe-o no formato `.zip`.
+ - Abra o arquivo `.tex` no seu editor favorito
+ - Mande o seu editor fazer a compilação ou então faça manualmente usando os comandos:
+  - `latex.exe -src -interaction=nonstopmode <MEU_ARQUIVO_TEX>.tex` 
+  - `pdflatex.exe -synctex=1 -interaction=nonstopmode <MEU_ARQUIVO_TEX>.tex` 
