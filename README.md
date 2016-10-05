@@ -4,7 +4,7 @@ Template LaTeX para a SBC - Sociedade Brasileira de Computação (LaTeX template
 ## Para quem está começando:
 
 ### Windows:
- #### Antes de continuar:
+#### Antes de continuar:
  Eu recomendo, particularmente falando, que a instalação do MiKTeX e do TeXstudio seja feita por meio da ferramenta Chocolatey (https://chocolatey.org/) pois ela já seta variáveis de ambiente e mais algumas coisas para facilitar o seu trabalho.
  - Instale o programa MiKTeX, disponível em http://miktex.org/download
  - Abra o gerenciador de pacotes (como administrador).
