@@ -11,3 +11,5 @@ Template LaTeX para a SBC - Sociedade Brasileira de Computação (LaTeX template
  - Verifique se você tem instalado os seguintes pacotes: graphicx, url, babel, enumitem e placeins. Caso não tenha, realize a instalação dos mesmos, marcando para instalação (Botão "+" na barra superior).
  - Como editor padrão para o LaTeX, indico o TeXstudio (http://www.texstudio.org/ - na instalação ele já configura os caminhos padrão das ferramentas do MiKTeX), porém fica à critério.
 
+#### Instalação via Chocolatey
+ - Em um prompt de comando (Administrador) (`cmd.exe`), digite: `choco install miktex texstudio -y` et voilà!
