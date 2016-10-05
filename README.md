@@ -1,9 +1,9 @@
 # sbc-latex-template
 Template LaTeX para a SBC - Sociedade Brasileira de Computação (LaTeX template for SBC - Brazilian Computation Society)
 
-## Observações - Disclaimer
-#### (PT-BR) Eu não sou o autor original deste template. Recebi de um orientador de graduação e apenas estou postando aqui para facilitar o desenvolvimento de trabalhos futuros. Desconheço os autores originais. Caso alguém conheça, por favor submeta um pull-request para realizar os devidos créditos e/ou correções.
-#### (EN) I'm not the original author of this template. I received this template from a former graduation teacher and I'm only posting here to ease future works development. I don't even know who is or whose are the author(s). Just in case someone knows, please submit a pull-request to do the proper credits and/or related bugfixes.
+### Autor/Fonte original (Original Author): SBC - Sociedade Brasileira de Computação
+
+http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos
 
 ## Para quem está começando:
 
